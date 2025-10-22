@@ -48,18 +48,16 @@ spark-submit task5.py
 ## Outputs
 
 ### Task 4: Fare Prediction
-```
-<img width="1017" height="629" alt="image" src="https://github.com/user-attachments/assets/5b726ebd-014f-4d44-80e9-66cb2c6af8f9" />
-<img width="1156" height="282" alt="Screenshot 2025-10-21 232415" src="https://github.com/user-attachments/assets/a6b5ea80-a623-408b-a596-c266d5dced9b" />
 
 
-```
+
+<img width="1017" height="629" alt="Screenshot 2025-10-21 232327" src="https://github.com/user-attachments/assets/a86a37b9-7435-4cfe-9aad-a6d6a973e81e" />
+
+
 
 ### Task 5: Fare Trend Prediction
-```
-<img width="1156" height="282" alt="image" src="https://github.com/user-attachments/assets/f04f9c54-460f-4af0-a716-45aca2c899e5" />
 
-```
+<img width="1156" height="282" alt="Screenshot 2025-10-21 232415" src="https://github.com/user-attachments/assets/7eae0594-ed52-4c91-b2e7-ed271a3a3155" />
 
 ## Tech Stack
 - Apache Spark (Structured Streaming + MLlib)
